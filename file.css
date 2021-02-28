@@ -1,0 +1,39 @@
+Songs{
+    color: #2c3d48;
+    display: block;
+}
+ heading{
+    display: block;
+    font-family: fantasy;
+    min-height: 10px;
+    font-weight: bolder;
+    font-size: xx-large;
+    background-color:#bfa04d;
+
+}
+Song{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+    font-weight: lighter;
+    min-height: 47px;
+    border: 1px solid #bfa04d;
+    padding: 0 20 0 20;
+}
+ 
+credits {
+    font-family: fantasy;
+    width: 100%;
+    text-align: right;
+}
+
+artist title genre  {
+    text-align: center;
+    display: block;
+}
+artist {
+    font-size: 20px;
+    text-decoration: underline;
+}
+year{
+    text-align: right;
+}

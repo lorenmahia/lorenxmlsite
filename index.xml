@@ -1,0 +1,72 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "file.css" ?>
+<Songs> 
+<heading> Welcome to My Album </heading>
+ <Song>
+ <artist> Russ </artist>
+ <title> 2006 </title>
+ <genre> Hip-hop </genre>
+ <year> 2020 </year> 
+ </Song>
+ <Song>
+ <artist> Russ </artist>
+ <title> PARANOID </title>
+ <genre> Hip-hop </genre>
+ <year> 2020 </year> 
+ </Song>
+ <Song>
+ <artist> Russ </artist>
+ <title> NEED A MINUTE </title>
+ <genre> Hip-hop </genre>
+ <year> 2020 </year> 
+ </Song>
+ <Song>
+ <artist> Russ </artist>
+ <title> A LOT MORE </title>
+ <genre> Hip-hop </genre>
+ <year> 2020 </year> 
+ </Song>
+ <Song>
+ <artist> Russ </artist>
+ <title> BEST ON EARTH </title>
+ <genre> Hip-hop </genre>
+ <year> 2020 </year> 
+ </Song>
+ <Song>
+ <artist> Chronixx </artist>
+ <title> Skankin' Sweet </title>
+ <genre> Reggae </genre>
+ <year> 2017 </year> 
+ </Song>
+ <Song>
+ <artist> Chronixx </artist>
+ <title> Smile Jamaica </title>
+ <genre> Raggae </genre>
+ <year> 2017 </year> 
+ </Song>
+ <Song>
+ <artist> David Guetta </artist>
+ <title> Lunar </title>
+ <genre> Dance </genre>
+ <year> 2011 </year> 
+ </Song>
+ <Song>
+ <artist> David Guetta </artist>
+ <title> Titanium </title>
+ <genre> Dance </genre>
+ <year> 2011 </year> 
+ </Song>
+ <Song>
+ <artist> Sauti Sol </artist>
+ <title> Midnight Train </title>
+ <genre> Afro-Pop </genre>
+ <year> 2020 </year> 
+ </Song>
+ <Song>
+ <artist> Sauti Sol </artist>
+ <title> Feel My Love </title>
+ <genre> Afro-Pop </genre>
+ <year> 2020 </year> 
+ </Song>
+ <credits> Design by Loren Mahia 2021 </credits>
+</Songs>
